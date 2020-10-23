@@ -123,3 +123,27 @@
   - **RTX**
     - modul rozšiřuje možnosti Windows s NT jádrem směrem k realtimových systémů
     - nadstavba
+- **distribuované os**
+  - pracuje na více než 1 procesoru
+  - samostatný os běžící na síti procesorů, které nesdílejé společnou paměť
+  - znamená možnost rozložit co nejvíce výpočet v systému na více míst, která pracují paralelně
+  - typy
+    - distribuovanost s hrubou granularitou
+    - distribuovanost s jemnou granularitou 
+      - části systému jsou co nejmenší
+  - základní vlastnosti
+   - transparentnost
+   - flexibilita (nemají na něj vliv výpadky, poruchy atd.)
+   - rozšiřitelnost (možnost rozšíření)
+- **distribuovaná aplikace**
+  - systém běží na více propojených pc (může být i Internet)
+  - distribuce dat (databáze, systémy pro správu obsahu)
+  - distribuce výpočtů - složité výpočty jsou distribuovány na více pc
+  - distribuce prostředků - pronajmutí serveru
+  - Grid
+  - Systém pro správu verzí
+- **Cloud Computing a OS**
+  - Google, Amazon, Microsoft
+  - OS běží na cloudu => náš procesor není zatěžován
+  - internetový prohlížeč
+  
