@@ -72,3 +72,17 @@
     <tr><td colspan="6">bios, ovladače</td></tr>
     <tr><td colspan="6">hardware</td></tr>
 </table>
+
+# WINDOWS řady NT do WIN XP
+
+- jádro nezávislé na sys MS-DOS
+- použití jako serveru nebo klienta v síti
+- stabilita a možnost zabespečení
+- navržen jako víceprocesorový
+- režim jádra a uživatelský
+<table>
+    <tr>
+        <td></td>
+    </tr>
+</table>
+
