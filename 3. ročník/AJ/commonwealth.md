@@ -11,7 +11,7 @@ Canada:
 - Geography: situated in North America, borders with USA and oceans. The highest mountain is Mount Logan
 - Government: constitutional monarchy
 - Head of state: the Queen of UK, her representative is Governon General of Canada
-- head of government:
+- head of government: prime minister of Canada
 - flag: maple leaf
 - Currency: Canadian Dollar
 - Population: ~37 million, has one of the highest per-capita immigration rates
