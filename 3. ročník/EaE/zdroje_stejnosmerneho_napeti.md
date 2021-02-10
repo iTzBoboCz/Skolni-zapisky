@@ -21,3 +21,12 @@
   - odolnější, snesou i vetší teplotní rozdíly
 - AgCd
 - AgZn
+- Li-Ion
+  - "jednoduchá struktura"
+  - přehřívá se
+  - může hořet, nebo i explodovat
+  - anoda: uhlík, katoda: lithium
+  - elektrolyt: lithiová sůl
+  - 3,6 V
+- Li-Po
+  - pro menší zařízení
