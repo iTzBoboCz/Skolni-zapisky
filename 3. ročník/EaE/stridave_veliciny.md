@@ -1,0 +1,18 @@
+# Střídavé veličiny
+- R
+  - ω = 2\*Pi\*f
+  - u = R\*i
+  - i = Im\*sin\*ω\*t
+  - Um = R\*Im (max. hodnoty)
+  - U = R\*I (efektivní hodnoty)
+  - I = Im/(2)^(1/2) = 0,7\*Im
+- L
+  - Um = XL\*Im
+  - XL = 2\*Pi\*f\*L [Ω] (indukčnost)
+  - UL = XL\*IL
+  - pro φ = 90°: u = XL\*sin(ω\*t+90°)
+- C
+  - Uc = Xc\*Ic
+  - Umc = Xc\*Icm
+  - Xc = 1/(2\*Pi\*f\*c)
+  - uc = Xc\*sin(ω\*t-90°)
