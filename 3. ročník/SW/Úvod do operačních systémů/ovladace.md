@@ -1,0 +1,19 @@
+# Ovladače
+
+- Plug-and-Play
+- non-Plug-and-Play (rozšíření jádra)
+- dělení podle funkce:
+    - funkce - rozhraní k zařízení
+    - sběrnice - spravují logické a fyzické sběrnice
+    - filtru - ovlivňují komunikaci od nebo do ovladače funkce
+- ovladače Windows
+    - typy
+        - třídy - umožnuje standardizovaným způsobem přistupovat k zařízením
+        - portu
+        - miniportu
+    - informace o ovladačích najdeme v registru
+    - WinObj
+- ovladače Linux
+    - moduly pro načtení do jádra jsou uloženy v souborech s příponou .KO
+    - FUSE - komunikace s jádrem
+    - 
