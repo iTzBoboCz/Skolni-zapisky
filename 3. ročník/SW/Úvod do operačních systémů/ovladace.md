@@ -2,7 +2,7 @@
 
 - Plug-and-Play
 - non-Plug-and-Play (rozšíření jádra)
-- dělení podle funkce:
+- dělení podle funkce
     - funkce - rozhraní k zařízení
     - sběrnice - spravují logické a fyzické sběrnice
     - filtru - ovlivňují komunikaci od nebo do ovladače funkce
@@ -16,4 +16,19 @@
 - ovladače Linux
     - moduly pro načtení do jádra jsou uloženy v souborech s příponou .KO
     - FUSE - komunikace s jádrem
-    - 
+- přerušení
+    - obsluha
+        - horním (okamžitě)
+        - dolní (časově náročná)
+    - skupiny
+        - maskovaná
+        - nemaskovaná
+    - UNIX
+        - nelze sdílená přerušení maskovat
+- bloková zařízení
+    - paměťová média - typický zástupce
+    - přístup se musí plánovat a synchronizovat
+    - každý sektor disku má adresu
+    - typy
+        - MBR (4 primární oddíly)
+        - GPT (disky s dělením a mohou obsahovat až 128 oddílů)
