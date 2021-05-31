@@ -1,0 +1,23 @@
+# Správa blokových zařízení
+
+- typyckým zástupcem blkových zařízená jsou paměťová média
+- přístup se musí plánovat a synchronizovat
+- každý sektor disku má adresu
+- vlastnosti
+- liší se od znakových v mnoha ohledech
+- k znakovým zařízením bývá lehčí přístup
+- jeden fyzický disk může být rozdělen na více oddílů (partitions, oblastí, svazků,..)
+- oddíly mohou být primary, jeden z nich extended partition a dále rozdělen na prakticky jakékoli množství oddílů
+- na každý oddíl můžeme nainstalovat OS (bootable) a nebo na něm mít data
+- typy
+- Master Boot Record (MBR)
+  - hlavní spouštěcí záznam
+  - tabulka s rozdělením disku
+  - max. 4 primární oddíly
+  - max. velikost oddílu jen cca 2 TiB
+- GUID Partition Table (GPT)
+  - součástí standardu UEFI od společnosti Intel
+  - jedná až o 64bitový koncept
+  - výhradně se používá LBA adresace
+  - až 128 oddílů na jednom disku
+  - jeden oddíl může podle standardu zabratt až 8 ZiB, ale tak velké oddíly nejsou podporovány operačními systémy
