@@ -1,0 +1,28 @@
+# Nástroje pro správu disků
+  - MBR
+    - 4 primární oddíly
+    - jeden může být rozšířený a v něm jakýkoliv počet logic. disků
+  - měly by umět vytvářet a rušit všechny tyto druhy oddílu
+  - často mají funkce navíc
+  - uvětšiny nástrojů platí, že bychom měli odpojot každý oddíl, který chceme modifikovat
+  - nástroje pro
+    - windows
+      - fdisk (textový)
+      - Správa disků (grafický) od windows NT
+      - Diskpart (textový ,součást Windows od verze Vista s Server 2008)
+      - FSUtil
+      - a spoustu dalších
+      - nástroje pro zajištění integrity dat
+        - chkntfs
+        - chkdsk
+        - autochk
+    - linux
+      - fdisk (textový)
+      - cfdisk
+      - GNU Parted, QtParted, GParted
+      - PartImage (vytváření obrazů disku)
+    - zaváděcí programy
+      - Boot Manažer
+        - spravování zavádění systému na vyšší úrovni
+      - LILO (univerzální, x86 a amd64)
+      - GRUB (univerzální)

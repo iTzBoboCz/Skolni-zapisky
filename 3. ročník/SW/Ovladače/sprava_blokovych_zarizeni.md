@@ -20,4 +20,15 @@
   - jedná až o 64bitový koncept
   - výhradně se používá LBA adresace
   - až 128 oddílů na jednom disku
-  - jeden oddíl může podle standardu zabratt až 8 ZiB, ale tak velké oddíly nejsou podporovány operačními systémy
+  - jeden oddíl může podle standardu zabrat až 8 ZiB, ale tak velké oddíly nejsou podporovány operačními systémy
+  - rodělení disku na 34 sektorů
+    - jeden sektor nazýváme Protective MBR (zajištění kompatibility)
+  - struktura
+    - verze GPT, velikost záhlaví
+    - kontrolní součet záhlaví
+    - LBA adresa tohoto a záložního GPT záhlaví
+    - LBA první a poslední adresa oddílu použitelná pro oddíly
+    - GUID disku
+    - následujcí oddíly a na konci disku je záložní GPT záhlaví
+  - záznam o oddílu
+    - GUID typ oddílu, pak GUID samostatného oddílu
