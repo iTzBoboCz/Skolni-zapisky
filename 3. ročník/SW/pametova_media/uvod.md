@@ -1,0 +1,34 @@
+# Paměťová média
+- CD a vinyl se zapisujují spirálově
+- čtecí a zápisová hlava
+  - laserová
+  - magnetická
+- formátování
+  - nízkoúrovňové
+    - základní formátování od výrobce
+  - vysokoúrovňové
+    - "To, co si představujeme pod formátováním."
+    - zapsán souborový systém, oddíly
+-  adresářová struktura
+  - stromová
+  - cyklická
+  - acyklická
+- oprávnění
+  - zápis
+  - čtení
+  - vytvoření
+  - smazání
+- filesystémy
+  - FAT32
+    - můžeme dělat jen jednu věc v jednu chvíli
+  - NTFS
+    - soubory nemají vlastníka
+- žurnálovací filesystem (JFS)
+  - zapisuje změny do speciálního záznamu nazývaného žurnál
+  - žurnál je obvykle realizován jako cyklický buffer
+  - jeho účelem je ochránit data na pevném disku před ztrátou integrity v případě neočekávaných havárií
+- virtuální souborový systém
+- souborové systémy pro vyměnitelná média
+  - FAT
+  - CDFS (CD)
+  - EXT2
