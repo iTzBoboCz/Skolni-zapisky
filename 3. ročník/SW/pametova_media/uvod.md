@@ -23,6 +23,7 @@
     - můžeme dělat jen jednu věc v jednu chvíli
   - NTFS
     - soubory nemají vlastníka
+    - žurnálovací systém
 - žurnálovací filesystem (JFS)
   - zapisuje změny do speciálního záznamu nazývaného žurnál
   - žurnál je obvykle realizován jako cyklický buffer
@@ -32,3 +33,15 @@
   - FAT
   - CDFS (CD)
   - EXT2
+  - HPFS
+  - VFAT
+    - nadstavba FAT16
+    - delší názvy souborů
+- cache
+  - L1
+    - nejrychlejší
+    - v řádech kilobajtů
+  - L2
+  - L3
+    - nejpomalejší
+    - desítky megabajtů
