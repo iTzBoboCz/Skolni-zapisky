@@ -45,3 +45,16 @@
   - L3
     - nejpomalejší
     - desítky megabajtů
+- VFS (vr)
+    - linux
+    - mount
+- extxfs => extCISLOfs (fs = filesystem)
+    - zpětně kompat.
+- ReiserFS
+- virtuální filesystem
+    - devfs
+    - procfs
+- výměnná optic. média
+    - usb = FAT32, ext2, exFAT
+    - CDFS = ISO 9660
+    - UDF (pro DVD a CD)
