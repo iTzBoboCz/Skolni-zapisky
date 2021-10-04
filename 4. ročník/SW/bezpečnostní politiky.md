@@ -1,0 +1,37 @@
+# Bezpečnostní politiky
+
+- vymezuje
+    - co vyžaduje ochranu
+    - proti jakým hrozbám je ochrana budována
+    - jakým způsobem se bude ochrana realizovat
+- typy:
+    - celková
+        - co mám zabezpečit
+    - systémová
+        - jak mám zabezpečit
+        - rozsálý IS
+            - fyzické sys. BP (budova, PC, místnost ...)
+            - personální sys. BP (ochrana před: zákazníky, hackery, zaměstnanci ...)
+            - komunikační sys. BP (ochrana přenosu dat, telefonů ...)
+            - provozní sys. BP (systém školení, jak postupovat při havárii, útoku ...)
+- cíle:
+    - důvěrnost
+        - k datům má pouze přístup autorizovaná osoba
+    - integritu
+        - změnu může provést jen ten, kdo má k tomu právo
+    - autentičnost
+        - musí být jasné s kým je vedena komunikace
+    - nepopiratelnost
+        - nikdo nemůže popříst transakci
+    - dostupnost
+        - je třeba oprávněným uživatelům umožnit přístup k datům
+    - spolehlivost
+- urovně:
+    - promiskuitní
+        - minimální nebo vůbec žádná bezpečnost
+	- liberální
+	    - každý může dělat vše až na věci explicitně zakázané
+	- opatrná
+	    - zakazuje dělat vše, co není explicitně povoleno
+	- paranoidní
+        - zakazuje dělat vše co by mohlo být potenciálně nebezpečné
