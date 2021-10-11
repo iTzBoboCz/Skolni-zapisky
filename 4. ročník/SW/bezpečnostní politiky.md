@@ -39,7 +39,6 @@
     - provozní systémová bezpečnost
       - školení, jak postupovat při útoku, havárii
       - zálohování dat
-  - 
 
 ## Zajistit
 - důvěrnost ochrany soukromých dat
