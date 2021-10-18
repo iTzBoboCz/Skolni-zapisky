@@ -24,8 +24,10 @@
 
 - celková
   - vymezuje, co se musí zabezpečit
+  - 5-10 let
 - systémová
   - jak mám zabezpečit
+  - 2-5 let
   - doporučení (nejnovější šifry,..)
   - u rozsáhlého IS se vypracovává zvlášť:
     - fyzická systémová bezpečnost
