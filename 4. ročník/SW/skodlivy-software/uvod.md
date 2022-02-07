@@ -60,3 +60,19 @@
 - zábava
 - získání informací
   - vir může nainstalovat i správce sítě na firemní zařízení
+
+### Detekce virů
+
+- skener
+  - hledání charakteristických skupin instrukcí
+  - paměťově rezidentní
+    - kontroluje veškerů činnost uživatele se soubory
+    - pokud zjistí, že je manipulováno s infikovaným programem - upozorní
+  - na požádání
+    - manuální skenování
+    - uživatel definuje oblast
+  - kontrola integrity
+    - porovnání akt. stavu důležitých programů a oblastí na disku s informacemi, které si kontrolní program uložil při své instalaci
+  - heuristická analýza
+    - rozbor kódu
+    - hledá postupy pro činnost virů nebo podezdřelé činnosti 

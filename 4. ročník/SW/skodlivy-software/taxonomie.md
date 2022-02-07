@@ -21,6 +21,7 @@
   - podle 
   - boot viry
     - při zavádění do systému (boot)
+    - např. vypnutí antiviru
     - MBR tabulka
   - souborové viry
     - při spuštění souboru 
@@ -50,14 +51,10 @@
           - dokáže se šírit více způsoby
         - multiplatformní
 #### nerezidentní viry
-  - nemnoží se
-  - přímá akce
-
-
+- nemnoží se
+- přímá akce
 - fast infector
   - infikuje i soubory, kterými je manipulováno (kopírování, archivace,..)
   - zpomaluje PC
 - slow infector
   - infikuje pouze program, do kterého je právě zapisováno
-stáhnout si výpis operatora (délky hovorů, lokace,..)
-cryptocult 
