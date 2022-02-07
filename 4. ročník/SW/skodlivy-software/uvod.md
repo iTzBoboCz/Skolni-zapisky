@@ -10,6 +10,7 @@
     - před
   3. inserting
     - mezi
+    - nejsložitější pro antivir detekovat
 
 ### antiviry
 
