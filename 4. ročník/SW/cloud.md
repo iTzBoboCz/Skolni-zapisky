@@ -66,3 +66,33 @@
 - monitorovat síť
 - autentizovat uživatele
 - vícefaktorová autentizace
+
+## firewall
+
+- filtrujeme s pomocí pravidel
+- nestavový
+  - obsahuje tabulku s povolenými kombinacemi zdrojů a cílů
+  - funguje jako whitelist, pokud neexistuje pravidlo, klienta nepustí dál
+- stavový
+  - dokáže sledovat provoz i na základě parametrů spojení
+  - stavy
+    - NEW
+    - ESTABLISHED
+    - RELATED
+      - pouze u TCP
+    - INVALID
+- aplikační
+  - proxy brány
+- topologie
+  - dvounohý firewall
+    - nejběžnější typ firewallu
+    - odděluje dvě nebo více sítí
+  - demiliratizovaná zóna
+    - izoluje podnikovou infrastrukturu od vnější sítě
+    - z vnitřní sítě není možné zaútočit na serverovou strukturu
+- netfilter
+  - 4 tabulky
+    - filter
+    - nat
+    - mangle
+    - raw
