@@ -96,3 +96,12 @@
     - nat
     - mangle
     - raw
+- firewall je možné řešit v síti nebo i na jednotlivých zařízeních
+
+## VPN
+
+- oproti proxy jsou data zabezpečená
+- možné použít zařízení v síti cíle (lokální)
+- vytváří tzv. tunel
+- tunel je vždy mezi routery
+- k přenášeným paketům se přidává hlavička GRE (Generic Routic Encapsulation) s cílovou adresou routeru na druhém konci tunelu, cílový router ji odstraňuje
