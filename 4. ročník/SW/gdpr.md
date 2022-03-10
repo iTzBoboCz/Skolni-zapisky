@@ -9,3 +9,24 @@
 - šifrovat hesla
 - rozdíly v ČR oproti EU
   - IP adresa v ČR není osobním údajem
+- správce dat má povinnost se udat, pokud mu data uniknou
+- správce a zpracovatel musí mít mezi sebou uzavřenou smlouvu
+  - jaká data
+  - k jakému účelu
+- smluvní a zákonná povinnost
+- pokud uniknou data o mně, musím být informován
+- zpracování nezbytné pro
+  - splnění smlouvy
+  - splnění právní povinnosti
+  - ochranu životně důležitých zájmů
+  - splnění úkolu prováděného ve veřejném zájmu
+  - poskytnutí zdravotních služeb
+- ochrana GDPR neplatí pro
+  - výkonu ochrany jiných práv
+  - úřední účely
+  - vědecké účely
+  - tiskové účely
+- pokud se zeptám, jaké údaje zpracovatel má, musí mi je řict
+- souhlas lze odvolat
+- S přihlédnutím ke stavu techniky, nákladům na provedení, povaze, rozsahu, kontextu a účelům zpracování i k různě pravděpodobným a různě závažným rizikům pro práva a svobody fyzických osob, provedou správce a zpracovatel vhodná technická a organizační opatření, aby zajistili úroveň zabezpečení odpovídající danému riziku
+  - zajistit neustálou důvěrnost, integritu, dostupnost a odolnost systémů a služeb
