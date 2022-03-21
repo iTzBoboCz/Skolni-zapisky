@@ -30,3 +30,17 @@
 - souhlas lze odvolat
 - S přihlédnutím ke stavu techniky, nákladům na provedení, povaze, rozsahu, kontextu a účelům zpracování i k různě pravděpodobným a různě závažným rizikům pro práva a svobody fyzických osob, provedou správce a zpracovatel vhodná technická a organizační opatření, aby zajistili úroveň zabezpečení odpovídající danému riziku
   - zajistit neustálou důvěrnost, integritu, dostupnost a odolnost systémů a služeb
+- pověřenec
+  - u zpracovatelů velkého rozsahu
+  - vytvoří návrh zabezpečení po technické stránce
+    - např. hashovací funkci
+    - kontroluje jeho dodržování
+  - nese odpovědnost
+  - od +-1000 záznamů
+- inspekce
+  - např. obchody nejsou dopředu informovány a nemohou inspekci zabránit
+- ve smlově stačí mít
+  - kdo jste
+  - z jakých důvodů
+  - jaké údaje
+  - jak jsou údaje zpracované
