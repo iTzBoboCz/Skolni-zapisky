@@ -26,7 +26,7 @@
   - zpracování je nezbytné 
     - pro splnění smlouvy
     - pro splnění právní povinnosti
-    - pro ochranu životně důležitých zájmů (doktor, zdravotní služby)- Subjekt údajů
+    - pro ochranu životně důležitých zájmů (doktor, zdravotní služby)
   - právo znát
     - totožnost a kontakt na správce a jeho případného zástupce
     - účely zpracování
@@ -57,6 +57,9 @@
   - pokud se zeptám, jaké údaje zpracovatel má, musí mi je řict
   - totožnost a kontakt na správce a jeho případného zástupce
   - účely zpracování
+- právo být zapomenut (výmaz)
+- právo opravit údaje
+- právo omezení zpracování
 - pokud uniknou data o mně, musím být informován
 - souhlas lze odvolat
 
